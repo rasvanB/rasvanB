@@ -1,1 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rasvanB&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rasvanB&theme=github-dark&hide_border=true&border_radius=0&currStreakNum=2DDD26)](https://git.io/streak-stats)
